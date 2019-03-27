@@ -1,5 +1,5 @@
 # GoNative_Module02
-Application of GoReact module03
+Application of GoReact module02
 
 ## Install Project:
 1 step: git clone project <br>
